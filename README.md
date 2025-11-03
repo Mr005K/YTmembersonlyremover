@@ -31,7 +31,8 @@ YouTube aggressively surfaces member-locked content even to non-members, includi
 
 > Side-by-side: Left = Script **Disabled**, Right = Script **Enabled**
 
-![before-and-after](https://i.ibb.co/ynV8Tt8k/image-3.png)
+<img width="4922" height="1542" alt="image (3)" src="https://github.com/user-attachments/assets/8136b2bc-d111-4d07-82bf-0415e0fd4739" />
+
 
 *No manual filtering. No leftover tiles. No wasted space.*
 
