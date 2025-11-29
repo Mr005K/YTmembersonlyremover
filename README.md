@@ -1,4 +1,6 @@
-# Members-Only Remover
+# WARNING - CODE IS **NOT** UPDATED HERE. HEAD TO GREASYFORK FOR THE LATEST SCRIPT - [https://greasyfork.org/en/scripts/554540-members-only-remover](https://greasyfork.org/en/scripts/554540-members-only-remover)
+
+## Members-Only Remover
 
 **No gaps. No shelf. No fuss.**
 
